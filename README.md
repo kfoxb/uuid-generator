@@ -3,14 +3,13 @@ Simple uuid generator using the uuid npm package.
 
 ## Installation
 
-with npm:
-```sh
-npm install
-```
-
 with yarn:
 ```sh
 yarn
+```
+with npm:
+```sh
+npm install
 ```
 ### Usage
 ```sh
