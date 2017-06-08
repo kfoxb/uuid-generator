@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/kfoxb/uuid-generator#readme",
   "dependencies": {
-    "uuid": "^3.0.1"
+    "uuid": "*"
   }
 }
